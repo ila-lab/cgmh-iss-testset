@@ -1,0 +1,14 @@
+The dataset files in the data/ directory of this repository are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to share and adapt the data for non-commercial purposes, provided that
+you give appropriate credit by citing:
+
+  Lin Y-J, Fang K-Y, Liao C-H, Cheng C-T. Automating Injury Severity Score Calculation
+  From Free-Text Discharge Diagnoses Using Domain-Specific Retrieval-Augmented Large
+  Language Models: Retrospective Validation Study. JMIR Med Inform. 2026;14:e93922.
+  doi:10.2196/93922
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Code in this repository (if any) is licensed separately under the MIT License (see LICENSE).

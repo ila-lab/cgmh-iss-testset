@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "CGMH ISS Test Set (n = 100)"
+type: dataset
+authors:
+  - family-names: Lin
+    given-names: Ying-Jia
+  - family-names: Fang
+    given-names: Kuan-Yueh
+  - family-names: Liao
+    given-names: Chien-Hung
+  - family-names: Cheng
+    given-names: Chi-Tung
+repository-code: "https://github.com/ila-lab/cgmh-iss-testset"
+license: CC-BY-NC-4.0
+preferred-citation:
+  type: article
+  title: "Automating Injury Severity Score Calculation From Free-Text Discharge Diagnoses Using Domain-Specific Retrieval-Augmented Large Language Models: Retrospective Validation Study"
+  authors:
+    - family-names: Lin
+      given-names: Ying-Jia
+    - family-names: Fang
+      given-names: Kuan-Yueh
+    - family-names: Liao
+      given-names: Chien-Hung
+    - family-names: Cheng
+      given-names: Chi-Tung
+  journal: "JMIR Medical Informatics"
+  year: 2026
+  volume: 14
+  start: e93922
+  doi: 10.2196/93922
+  url: "https://medinform.jmir.org/2026/1/e93922/"
