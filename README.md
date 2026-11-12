@@ -69,6 +69,29 @@ The study was reviewed and approved by the institutional research ethics board (
 - Data (`data/`): [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see `LICENSE-DATA`). Non-commercial use only; please cite the paper above.
 - Any code in this repository: MIT (see `LICENSE`).
 
+## Please cite our paper
+Please cite the paper above if you use this test set in your research.
+```
+@Article{info:doi/10.2196/93922,
+author="Lin, Ying-Jia
+and Fang, Kuan-Yueh
+and Liao, Chien-Hung
+and Cheng, Chi-Tung",
+title="Automating Injury Severity Score Calculation From Free-Text Discharge Diagnoses Using Domain-Specific Retrieval-Augmented Large Language Models: Retrospective Validation Study",
+journal="JMIR Med Inform",
+year="2026",
+month="Oct",
+day="13",
+volume="14",
+pages="e93922",
+keywords="Abbreviated Injury Scale; automatic ISS calculation; large language models; retrieval-augmented generation; trauma",
+issn="2291-9694",
+doi="10.2196/93922",
+url="https://medinform.jmir.org/2026/1/e93922",
+url="https://doi.org/10.2196/93922"
+}
+```
+
 ## Contact
 
 Intelligent Language Algorithms Laboratory (ILALab), Department of Artificial Intelligence, Chang Gung University.
